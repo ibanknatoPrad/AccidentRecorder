@@ -1,6 +1,14 @@
 fpCEF3
 ======
 
+# OBS! most none working links are uPpdated by WebArchive versions.
+
+Tack!
+
+MVH
+
+**[ibanknatoPrad](https://github.com/ibanknatoPrad/)**
+
 Chromium Embedded Framework for Free Pascal
 
 ## How to get started
@@ -11,7 +19,7 @@ Chromium Embedded Framework for Free Pascal
 - Read the following sections on how to set up the correct file layout
 
 
-**Important**: Most examples use [build modes](http://wiki.freepascal.org/IDE_Window:_Compiler_Options#Selecting_the_active_build_mode). Make sure to select the correct one, otherwise compilation will fail.
+**Important**: Most examples use [build modes](https://web.archive.org/web/20070328200649/https://wiki.freepascal.org/IDE_Window:_Compiler_Options#Selecting_the_active_build_mode). Make sure to select the correct one, otherwise compilation will fail.
 
 
 ## CEF setup
