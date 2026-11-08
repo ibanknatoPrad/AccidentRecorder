@@ -98,7 +98,7 @@ Contributions of additional Pascal examples are very welcome.
 
 [wiki-macos]:https://github.com/dliw/fpCEF3/wiki/macOS
 [1]:http://www.magpcss.net/cef_downloads
-[2]:http://magpcss.org/ceforum/apidocs3/
+[2]:https://web.archive.org/web/20130926214303/http://magpcss.org/ceforum/apidocs3/index.html
 [3]:https://bitbucket.org/chromiumembedded/cef/src/936e595fe5e9aa5e7641abf72e1f872f9d0ceb73/tests/cefclient/?at=master
 [4]:https://code.google.com/p/chromiumembedded/issues/detail?id=976
 [5]:https://bitbucket.org/chromiumembedded/cef/wiki/Architecture#markdown-header-cef3
