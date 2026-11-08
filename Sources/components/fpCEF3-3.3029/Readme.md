@@ -7,7 +7,7 @@ Tack!
 
 MVH
 
-**[ibanknatoPrad (fader or father of barionleg / Georgien.fr grundare till och med "driver" at Alltes kod ©°mpositör Union (©ver i ka-GE @USSR eller ©°VER_i_Ge, Severiges rötter)  ](https://github.com/ibanknatoPrad/)**
+**[ibanknatoPrad (fader or father of barionleg / Georgien.fr grundare till och med "driver" :) at Alltes kod ©°mpositör Union (©ver i ka-GE @USSR eller ©°VER_i_Ge, Severiges rötter)  ](https://github.com/ibanknatoPrad/)**
 
 Chromium Embedded Framework for Free Pascal
 
